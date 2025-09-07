@@ -17,6 +17,7 @@
     "express": "^5.1.0"
   },
   "devDependencies": {
+    "@repo/common": "*",
     "@repo/eslint-config": "*",
     "@repo/typescript-config": "*",
     "tsup": "^8.5.0"
